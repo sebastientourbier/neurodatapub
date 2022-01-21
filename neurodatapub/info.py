@@ -1,7 +1,7 @@
 """Neurodatapub package information."""
 
 _version_major = 0
-_version_minor = 4
+_version_minor = 5
 
 __release_date__ = '19.01.2022'
 
